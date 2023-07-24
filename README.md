@@ -27,7 +27,7 @@
 </ul>
 </details>
 <details>
-  <summary>Associate Software Developer at <a href="https://www.legatohealth.com/">Legato</a> 🤖</summary>
+  <summary>Associate Software Developer at <a href="https://www.iqvia.com/">IQVIA</a> 🤖</summary>
   <ul>
     <li>Working on data engineering pipelines to transform pharmaceutical sales data according to client needs</li>
 <!--     <li>Applying AI on different large problems in the field of Oncology, Process Improvement and Rapid Engineeing.</li> -->
