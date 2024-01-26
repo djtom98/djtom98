@@ -3,7 +3,7 @@
 
 <h3>What do I do? 👨‍💻</h3>
 <details>
-<summary>Data Analyst at Gameloft </summary>
+<summary>Data Scientist working with the IMF </summary>
 <!-- <ul>
   <li><a href="https://github.com/ashutosh1919/ml-data-bot">ml-data-bot</a></li>
   <li><a href="https://github.com/dsc-iiitdmk/Pick-Parser">Pick-Parser</a></li>
