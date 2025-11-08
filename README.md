@@ -3,7 +3,12 @@
 
 <h3>What do I do? 👨‍💻</h3>
 <details>
-<summary>Data Scientist working with the IMF </summary>
+  
+<summary>Machine Learning Engineer - AILY Labs </summary>
+</details>
+<details>
+  
+<summary>Data Scientist - Projects Officer working with the IMF </summary>
 <!-- <ul>
   <li><a href="https://github.com/ashutosh1919/ml-data-bot">ml-data-bot</a></li>
   <li><a href="https://github.com/dsc-iiitdmk/Pick-Parser">Pick-Parser</a></li>
@@ -16,7 +21,7 @@
 </ul> -->
 </details>
 <details>
-<summary>Data Science Graduate 📊</summary>
+<summary>M.S Data Science from the Barcelona School of Economics📊</summary>
 <!-- <ul>
   <li><a href="https://github.com/ashutosh1919/ml-data-bot">ml-data-bot</a></li>
   <li><a href="https://github.com/dsc-iiitdmk/Pick-Parser">Pick-Parser</a></li>
@@ -29,7 +34,7 @@
 </ul> -->
 </details>
 <details>
-  <summary>Associate Software Developer at <a href="https://www.iqvia.com/">IQVIA</a> 🤖</summary>
+  <summary>Data Engineer at <a href="https://www.iqvia.com/">IQVIA</a> 🤖</summary>
   <ul>
     <li>Working on creating data engineering pipelines to transform pharmaceutical sales data according to client needs and requirements. Stickler for best practices, and enjoys figuring out what went wrong with your data.</li>
 <!--     <li>Applying AI on different large problems in the field of Oncology, Process Improvement and Rapid Engineeing.</li> -->
@@ -40,7 +45,7 @@
 <details>
   <summary>Who are you? 👨</summary>
   <pre>
- I'm a Data Scientist, a Software Developer, a TEDx Organizer, a Mechanical Engineer and a lifelong learner. Nerds out about RL and AI research in my free time. I translate data into valuable and comprehensible insights, and I aim to help you make data-driven decisions. Proficient in SQL, R and Python. <br>
+ I'm a Machine Learning Engineer, a TEDx Organizer, a Mechanical Engineer and a lifelong learner. Nerds out about RL and AI research in my free time. I translate data into valuable and comprehensible insights, and I aim to help you make data-driven decisions. Proficient in SQL, R and Python. <br>
   </pre>
 </details>
 
