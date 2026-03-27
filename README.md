@@ -4,7 +4,7 @@
 <h3>What do I do? 👨‍💻</h3>
 <details>
   
-<summary>Machine Learning Engineer - AILY Labs </summary>
+<summary>Machine Learning Engineer | AI Platform - AILY Labs </summary>
 </details>
 <details>
   
@@ -43,9 +43,9 @@
 
 <h3>Questions You May Have 😕</h3>
 <details>
-  <summary>Who are you? 👨</summary>
+  <summary>What else? 👨</summary>
   <pre>
- I'm a Machine Learning Engineer, a TEDx Organizer, a Mechanical Engineer and a lifelong learner. Nerds out about RL and AI research in my free time. <br>
+ Too spontaneous for my own good, love to hike, play padel, snorkel, and read! Professionally dorky, a TEDx Organizer, a Mechanical Engineer and a lifelong learner. Nerds out about RL and AI research in my free time. <br>
   </pre>
 </details>
 
