@@ -45,18 +45,8 @@
 <details>
   <summary>Who are you? 👨</summary>
   <pre>
- I'm a Machine Learning Engineer, a TEDx Organizer, a Mechanical Engineer and a lifelong learner. Nerds out about RL and AI research in my free time. I translate data into valuable and comprehensible insights, and I aim to help you make data-driven decisions. Proficient in SQL, R and Python. <br>
+ I'm a Machine Learning Engineer, a TEDx Organizer, a Mechanical Engineer and a lifelong learner. Nerds out about RL and AI research in my free time. <br>
   </pre>
 </details>
 
-![Davis' Github Profile Views](https://komarev.com/ghpvc/?username=djtom98&color=blueviolet)  
-
-
-<a href="https://github.com/jstrieb/github-stats">
-
-![](https://raw.githubusercontent.com/djtom98/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-![](https://raw.githubusercontent.com/djtom98/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-</a>
 
